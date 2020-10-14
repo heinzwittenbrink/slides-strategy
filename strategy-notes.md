@@ -14,7 +14,7 @@ Quotes and sources:
 
 ## Common understanding
 
-> Content strategy always works by creating a common understanding. 
+> Content strategy always works by creating a common understanding.
 
 > Content strategists do not simply propose an "objectively correct" diagnosis and therapy to an organization as external experts, but develop a common understanding with and within an organization or community that works in practice.
 
@@ -28,7 +28,7 @@ Content strategy is not a super science or super discipline. It is an art that u
 
 ---
 
-For the work of content strategists and the understanding of the discipline, this means that only a non-reduced concept of content strategy can be practically successful. 
+For the work of content strategists and the understanding of the discipline, this means that only a non-reduced concept of content strategy can be practically successful.
 
 ## VMOSA
 
@@ -47,13 +47,13 @@ For the work of content strategists and the understanding of the discipline, thi
 
 ## Vision
 
-A vision statement has the task to get a common understanding of where you actually want to go. 
+A vision statement has the task to get a common understanding of where you actually want to go.
 
 ## Mission
 
 > Your mission statement succinctly states what you exist to do
 
-(Kristina Halvorson) 
+(Kristina Halvorson)
 
 ## Goals
 
@@ -67,7 +67,7 @@ Only when I have defined such goals do I need a strategy. The strategy consists 
 
 ---
 
-> Strategy is where you will focus your efforts to achieve your goals, and how you will succeed—or, “where to play and how to win.” 
+> Strategy is where you will focus your efforts to achieve your goals, and how you will succeed—or, “where to play and how to win.”
 
 (Kristina Halvorson)
 
@@ -99,8 +99,8 @@ Only when I have defined such goals do I need a strategy. The strategy consists 
 
 ##
 
-Christian Henner-Fehr: https://drive.google.com/file/d/0BzNQPsHPR_eBYVltaWUxOXNjUVE/view?usp=sharing
+Christian Henner-Fehr: <https://drive.google.com/file/d/0BzNQPsHPR_eBYVltaWUxOXNjUVE/view?usp=sharing>
 
 ##
 
-Dieter Rappold: https://docs.google.com/document/d/1zndxZyYFeqEq5GMzrw8MF2DiolfjwZxoUBvoluMCOKY/edit?usp=sharing
+Dieter Rappold: <https://docs.google.com/document/d/1zndxZyYFeqEq5GMzrw8MF2DiolfjwZxoUBvoluMCOKY/edit?usp=sharing>
