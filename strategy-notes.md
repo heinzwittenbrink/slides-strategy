@@ -95,6 +95,15 @@ Only when I have defined such goals do I need a strategy. The strategy consists 
 
 (Kristina Halvorson)
 
+
+# Henry Mintzberg
+
+##
+
+![](https://www.toolshero.com/wp-content/uploads/2018/04/5-p-strategy-mintzberg-model-toolshero.jpg)
+
+Source: [What are the 5 P's of Strategy by Henry Mintzberg? | toolshero](https://www.toolshero.com/strategy/5-ps-of-strategy/ "What are the 5 P's of Strategy by Henry Mintzberg? Definition | toolshero")
+
 # Material from former courses
 
 ##
