@@ -1,5 +1,5 @@
 ---
-title: What is strategy? (Notes for #cos19)
+title: What is strategy? (Notes for \#cos19)
 date: 2020-10-14
 ---
 
