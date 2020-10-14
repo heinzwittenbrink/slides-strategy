@@ -32,6 +32,12 @@ For the work of content strategists and the understanding of the discipline, thi
 
 ## VMOSA
 
+![](http://www.atlas101.ca/pm/wp-content/uploads/2016/03/VMOSA.jpg)
+
+Source: [VMOSA – Vision, Mission, Objectives, Strategies, and Action Plans – Atlas of Public Management](https://www.atlas101.ca/pm/concepts/vmosa-vision-mission-objectives-strategies-and-action-plans/ "VMOSA – Vision, Mission, Objectives, Strategies, and Action Plans – Atlas of Public Management")
+
+---
+
 - V for Vision,
 - M for mission,
 - O for Objectives also goals
