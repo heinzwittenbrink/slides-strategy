@@ -104,6 +104,18 @@ Only when I have defined such goals do I need a strategy. The strategy consists 
 
 Source: [What are the 5 P's of Strategy by Henry Mintzberg? | toolshero](https://www.toolshero.com/strategy/5-ps-of-strategy/ "What are the 5 P's of Strategy by Henry Mintzberg? Definition | toolshero")
 
+## Planning
+
+
+
+> Strategy is not the consequence of planning, but the opposite: its starting point.
+
+[TOP 25 QUOTES BY HENRY MINTZBERG](https://www.azquotes.com/author/10183-Henry_Mintzberg "TOP 25 QUOTES BY HENRY MINTZBERG (of 58) | A-Z Quotes")
+
+---
+
+Henry Mintzberg: [The Fall and Rise of Strategic Planning](https://hbr.org/1994/01/the-fall-and-rise-of-strategic-planning "The Fall and Rise of Strategic Planning")
+
 # Material from former courses
 
 ##
